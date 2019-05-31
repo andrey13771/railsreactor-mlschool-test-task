@@ -1,6 +1,6 @@
 # railsreactor-mlschool-test-task
-Test task for Rails Reactor ML Summer School by Andrii Pavlenko
-In this task i used color histograms of images to find similarity.
+Test task for Rails Reactor ML Summer School by Andrii Pavlenko\n
+In this task i used color histograms of images to find similarity.\n
 color_histogram.py gets a normalized histogram for each image and calculates Chebyshev distance for similarity.
 Results tested on 64-bit Windows 7 on Python 3.7.3 shown in the png screenshot.
 I also tried a different approach using Complex Wavelet Structural Similarity Index Method
